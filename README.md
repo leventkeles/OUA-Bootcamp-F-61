@@ -91,7 +91,7 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 - **Sprint board update**: Sprint board screenshotları: 
 ![Backlog 1](https://raw.githubusercontent.com/leventkeles/OUA-Bootcamp-F-61/main/ProjectManagement/sprint2/sprint2-1.png) 
 ![Backlog 2](https://raw.githubusercontent.com/leventkeles/OUA-Bootcamp-F-61/main/ProjectManagement/sprint2/sprint2-2.png) 
-![Backlog 3](https://raw.githubusercontent.com/leventkeles/OUA-Bootcamp-F-61/main/ProjectManagement/sprint2/sprint3-3.png)
+![Backlog 3](https://raw.githubusercontent.com/leventkeles/OUA-Bootcamp-F-61/main/ProjectManagement/sprint2/sprint2-3.png)
 
 - **Ürün Durumu**: Ekran görüntüleri(arayüz tasarımı):
   ![Screenshot 1](https://github.com/leventkeles/OUA-Bootcamp-F-61/blob/main/ProjectManagement/sprint1/sprint-1-ss.png)
