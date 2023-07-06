@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "287385853570",
+    "project_id": "ortamapp-1777b",
+    "storage_bucket": "ortamapp-1777b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287385853570:android:e7a5e1306436ae2c1d5e9b",
+        "android_client_info": {
+          "package_name": "com.ortam.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "287385853570-1b5cc9sp75rkq163dcuj7g2kifh8g7un.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ortam.app",
+            "certificate_hash": "3a271f0b31d932d0e466bc4b9280277929542f79"
+          }
+        },
+        {
+          "client_id": "287385853570-4fueobtjtl7o8l58k0tgp3gf5sck1bc8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy1FXd_0ytCk_-Ab7xQyAg900QIkDTq0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "287385853570-4fueobtjtl7o8l58k0tgp3gf5sck1bc8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
